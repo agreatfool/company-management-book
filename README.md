@@ -52,8 +52,8 @@
 	* <a href="#ch7.1">7.1 关于作者</a>
 	* <a href="#ch7.2">7.2 扩展阅读</a>
 
-## <a name="ch1">1. 人才的重要性</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-### <a name="ch1.1">1.1 什么是人才</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+## <a name="ch1">1. 人才的重要性</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### <a name="ch1.1">1.1 什么是人才</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 几点我的归纳：
 
 * 能够适应公司文化
@@ -65,22 +65,22 @@
 * 能够为公司提供价值
 	* 最关键的一条，公司雇佣员工，就是为了创造价值。
 
-### <a name="ch1.2">1.2 什么是价值</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch1.2">1.2 什么是价值</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 这绝对不是指工作产量，而是对于公司当下或者将来具有积极意义的和有用的东西。
 
 举个最现实的例子来说，如果我用上班时间来写这篇文章，我花掉的这些时间，并没有写出一行代码（个人当前工作产量为0）。但是，假如这篇文章对于公司经营来说有启发意义（公司整体产量提升），就比我一人花这点时间写几十行代码来的有用得多得多，价值就更高。
 
 再举个例子，我花了半天写了300行代码，然后花了半天做code review，找出几个问题。比我花一整天写1000行代码要产出更多价值。因为事后产生的线上bug会少很多，假如提前预防掉的bug是支付等关系营收的敏感代码，则更等于产出了多得多的价值。
 
-### <a name="ch1.3">1.3 为什么需要人才</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-#### <a name="ch1.3.1">1.3.1 人才能创造更多价值</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch1.3">1.3 为什么需要人才</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+#### <a name="ch1.3.1">1.3.1 人才能创造更多价值</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 这点是显而易见的，而且是至关重要的，但是从我从业至今的经历来说，没有几个老板真的表现出对这点的关切（在缺乏人才的时候是否将人才招揽作为第一优先级处理）。这点我感觉非常不理解。
   
 这里我举个例子来说。有一个软件公司的一个项目，持续的时间非常长，历任的程序员换过无数个，代码洋洋洒洒几百万行。但是流过的程序员没一个称得上人才，也甚至不能说是靠谱。结果很凄惨，代码质量如今可以用“考古”两个字来形容。代码质量差，并且没有一个主心骨领导的结果是显而易见的：业务开展异常缓慢，任何的新功能添加、老功能修改都可能引发一场地震（没人理解以前的代码内容和结构），营收慢慢下滑。这种项目只可能有一个结果，就是等死。
 
 反过来思考，如果在这个项目一开始就有一个人才级别的领导者，并能持之以恒贯穿项目开发始终。项目代码必然结构清晰，文档齐全，各部门协作通畅。无论是代码质量保证，程序性能保证，功能开发，bug修复，都必定是顺畅无比的。
 
-#### <a name="ch1.3.2">1.3.2 人才能带来更多人才</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch1.3.2">1.3.2 人才能带来更多人才</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 这点太容易理解了，我们经常听产品经理说，口碑是最好的宣传，人才和产品在这点上非常类似。好的人才，能带来好的工作氛围，好的工作氛围，能让已经入伙的人才更多地为公司做宣传，然后带来更多的人才，这是一个良性循环。
 
 google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO，玛丽莎·梅耶尔就说过：“尝试与你可以找到的最聪明的人一起工作，因为他们会挑战你而让你思考和工作得更好。”
@@ -89,11 +89,11 @@ google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO�
 
 反向思考一下。很多时候，我们会看到这样的现象。某些不靠谱的员工，爬到了一个与其能力不匹配的位置。当这样的人拥有了招聘权，你的噩梦就开始了，能力拙劣的人会招聘人才？你让他怎么坐得稳他好不容易爬上去的位置？他会通过其影响力，推荐进来各种不理想的员工。最后，“他们“会想尽办法阻碍真正人才的进入，“劣币驱逐良币”，大家都懂，不是么。是不是很可怕？
 
-#### <a name="ch1.3.3">1.3.3 人才能节约公司开支</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch1.3.3">1.3.3 人才能节约公司开支</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 这和1.3.1中论述的内容相辅相成。也是很多老板看不到的地方。雇佣靠谱的人才，会在很多隐形的地方给公司节约大量的开支。举例来说，靠谱的人才一次性写出来，能反复复用的代码，岂不是远远比写出来后跑个几次又发现重大问题反复重写的稀烂代码要节约得多？
 
-## <a name="ch2">2. 如何招聘人才</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-### <a name="ch2.1">2.1 什么是知识，什么是能力</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+## <a name="ch2">2. 如何招聘人才</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### <a name="ch2.1">2.1 什么是知识，什么是能力</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 很多人在面试的时候经常会搞错两个概念，甚至很有经验的面试官亦然。什么是知识，而什么是能力。
   
 对于大部分的面试官来说，面试就是问，这个你会不会，那个你会不会。这个时候，他考察的所有的点，都是“知识”。你会不会，你知道不知道，这只是知识，而不是能力。
@@ -102,22 +102,22 @@ google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO�
 
 当然，知识和能力都非常重要，只有能力而没有知识的应聘者同样是不合格的（没法在短期内就开始为公司创造价值），两者都是决定一个应聘者综合素质的要点。这里面试官需要注意的是不要只看到知识，而完全忽视了能力（很常见的情况）。
 
-### <a name="ch2.2">2.2 硬实力是一部分</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch2.2">2.2 硬实力是一部分</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 这里我们把知识称为硬实力。很多时候，我们招聘到的员工，都只看到了他的硬实力，能不能干活，会不会这个技术。硬实力很重要，毕竟公司招聘员工，到底还是为了产出价值的。而且在招聘的时候，大部分时候薪资的定位都是靠硬实力来衡量的。但是招聘者必须要理解，我们经营的是什么？软件公司！这个行业变化万千，几年前的技术在几年后能不能存在经常都要打个问号。光有知识的员工是不堪重用的。 
 
 就说说游戏行业，几年前如日中天的flash，现在已经是日暮西山了，当年拿高薪的那些flash程序员现在可安好？可能现在还有工作，还混着，那再过几年，flash完全被淘汰了呢？
 
-### <a name="ch2.3">2.3 软实力更重要</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch2.3">2.3 软实力更重要</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 能力是根本，有能力的人，无论行业怎么变化，他都能适应自如。就说程序员，代码写多了，本质的东西掌握了，语言就是一种工具，拿来就用。换个领域也就是换个工具，根本的东西不会变。有了这样的员工，公司也就有了底气，一个转身，pivot转型成别的经营模式，公司照样能活得很滋润。为什么？因为有靠谱的人才帮公司解决技术难题，支撑公司运作下去。
 
-### <a name="ch2.4">2.4 招聘必须落实到可执行、可量化的流程</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch2.4">2.4 招聘必须落实到可执行、可量化的流程</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 理解了前面的内容，招聘工作还是必须要落实到操作上。很多公司的招聘，都有一个问题，就是结果不可量化。 
 
 “刚才那个人面试怎么样？”“不错，还可以。”“怎么样？”“很好啊。”    
 请问，可以在哪里？不错在哪里？这种模棱两可的结论其实是很没意义的。面试必须要做到能量化一个人，并且将其知识和能力都列入考量范围。
 
-## <a name="ch3">3. 如何培养人才</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-### <a name="ch3.1">3.1 为什么需要培养</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+## <a name="ch3">3. 如何培养人才</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### <a name="ch3.1">3.1 为什么需要培养</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 主要原因有两点。    
 第一，成本制约。    
 薪资必然是制约一家公司招募人才的一个重要原因，特别是现在中国生活成本大幅上涨的大环境下，老板必然想要降低成本，这里就有冲突了。正确的思路是绕开这个制约点，则势必会考虑怎么以低廉的价格招到可造之材，然后培养以期大用。
@@ -132,7 +132,7 @@ google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO�
 
 等等，所以只要是新进员工就涉及到培养的问题。
 
-### <a name="ch3.2">3.2 正确认识培养需要的投入</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch3.2">3.2 正确认识培养需要的投入</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 从理性的思路上来说，要衡量一个投入有没有价值，必然要考虑它的产出。这里我们看看培养所产出的东西。
 
 第一，人才的产出。    
@@ -143,14 +143,14 @@ google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO�
 
 刚才在1.3.2中举例的时候也说到过，良币驱逐劣币，有些事，你越不做结果越坏。将心比心，你觉得作为员工的，是喜欢一家有担当会为员工的培养而付出的公司，还是小鸡肚肠一直打着小算盘的公司？这道理很简单不是么？
 
-### <a name="ch3.3">3.3 如何在工作的过程中进行提升</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch3.3">3.3 如何在工作的过程中进行提升</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 当然，培养培训，从来没人说一定要花公司成本而0产出。实际上很多东西，也是可以在工作的过程中进行的。
 
 举个简单的例子，如果公司现在需要重做官网，让我来操作的话。我肯定会建议老板，我们使用当前最新的HTML5+CSS3+AngularJs+Grunt自动化工具，这一系列最新的web开发技术堆栈来实施。总的开发周期必然会延长，但是当事情结束，公司收获的就不仅仅是一个能看的网站，同样收获了一套能实践、使用的最新web技术能力。这对于公司来说，增进了技术积累。而对于员工来说，增加了新技术的能力培养。一举两得不是？
 
 这样的情况其实在一家公司里其实是非常多的，关键就是要培养员工对技术的敏感度和学习同时工作的文化。员工没有这个意识，那就没人提这种可能性。公司没有这个气量，那就没有可能实施这种计划。
 
-### <a name="ch3.4">3.4 如何在业余时间提升</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch3.4">3.4 如何在业余时间提升</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 工作当然主要还是为了公司产出价值，所以一个人，如果需要提升，最主要的还是需要靠在业余时间自我培养。当然这里我们不会细谈如何提升自我学习能力，这是一个很大的话题。这里我们要谈的是如何保持公司里的一种学习氛围。
 
 当你招募的员工都是码农的时候，必然的结果就是没人关心技术，关心的只是如何把工作做掉，然后回家休息，甚至是如何在工作的时候偷懒。这个时候，管理层就需要想办法解决这个惰性状况（即便你招聘到的都是人才，也是有惰性的，很多东西都需要激励）。
@@ -161,7 +161,7 @@ google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO�
 * 择几项当前正红的技术，开讲座布道，入门、启迪。适当举一些新技术应用的例子，会有更好的效果。然后自然就会慢慢扩展开来。
 * 布置任务，接力棒的形式慢慢钻研一门技术，由简到深提升一门技术的熟练度，在时间、付出和收获上达到一个平衡。
 
-### <a name="ch3.5">3.5 谈谈如何做讲座</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch3.5">3.5 谈谈如何做讲座</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 我见过太多的公司，都有所谓的讲座，但是做得都不好。我个人觉得从根本上，没有把握到应该怎么做讲座的方法。
 
 首先，必须要明确讲座的目的。    
@@ -173,13 +173,13 @@ google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO�
 
 这里面是有很多方法论的。你以为是个人就能来上课的？你去问问大学里的学生，肯定告诉你理论研究搞得好的教授不一定讲得好课。
 
-## <a name="ch4">4. 如何留住人才</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+## <a name="ch4">4. 如何留住人才</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 这个话题水很深，专业的当然必须了解心理学等一系列的理论知识，才能有一个比较系统的分析，和针对公司现状的解决方案。我这里仅抛砖引玉，说点常识论（太多的公司在管理的时候连常识论都没顾及！），主要是马斯洛理论。
 
-### <a name="ch4.1">4.1 马斯洛理论</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch4.1">4.1 马斯洛理论</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 马斯洛理论，又称"基本需求层次理论"，是员工激励理论的代表之一，由心理学家马斯洛提出。分为5个层次，生理、安全、社交、尊重和自我实现。低层次的生理和安全这里就不说了，也没必要多说，这和公司的关系不大（应该都能满足）。
 
-### <a name="ch4.2">4.2 社交需求</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch4.2">4.2 社交需求</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 集体感、归属感、爱。
 
 员工不是机器的零件，公司也绝对不是机器。在作为企业的一员的时候，员工也对企业有所需求，最基本的就是要有归属感，具有作为组织一员的自豪感，能够对企业认同。
@@ -190,7 +190,7 @@ google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO�
 
 反之，如果能做到善待员工。有时也能听到：这家公司不错，人性化管理，比较温馨，工资不高我也会考虑。类似这样的说法。不是么？
 
-### <a name="ch4.3">4.3 尊重需求</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch4.3">4.3 尊重需求</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 能力和成就得到承认，正确的评价。
 
 这里关键的其实就5个字：“正确的评价”。
@@ -201,33 +201,33 @@ google的第二十位员工，当时唯一的女工程师，现在的雅虎CEO�
 
 在没有评价机制的情况下，公司环境就和中国现在的社会环境一样了。丛林法则，搞人际关系成了头等大事，因为没有评价，有人操作的地方只要靠人际关系，什么都能吹得出来。我跟你关系好，你帮我多加点钱，老板面前帮我多吹点好话。一旦形成这种氛围，必然又是一个良币驱逐劣币的过程，到时候你老板哭都来不及。
 
-### <a name="ch4.4">4.4 自我提升</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch4.4">4.4 自我提升</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 将来的成长、抱负。
 
 对于软件公司来说，这一项最容易理解，就是职业生涯上的提升。软件市场风云万千，新技术日新月异，能不能跟上节奏，是以后能不能在这个行业站得住脚，生存下去的关键。
 
 这点我们刚才在人才的培养中也说到过了，这里略过。
 
-### <a name="ch4.5">4.5 双赢</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch4.5">4.5 双赢</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 马斯洛是一种很好的理论。抛开理论不谈，我个人觉得企业需要做好的事情其实很简单，概括起来就两个字“双赢”。
 
 在企业允许的范围内，尽量给员工照顾、便利和培养，并用正确的方式、制度引导和规范员工的行为和工作。适当地给予激励，适当地给予压力。在最大化员工能力和积极性的情况下，提升员工的工作效率，来最大化其对公司的价值产出。
 
 很简单，不是么？ 
 
-## <a name="ch5">5. 上层构造的重要性</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+## <a name="ch5">5. 上层构造的重要性</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 上面说了那么多，其实都是厘清一些概念和普及一些常识。我不觉得我能力有多强，我能想到的，你必然也想到过，问题是能不能整理出来，然后更重要的是，能不能付诸行动，改变公司现状。
 
 公司运营得好不好将来朝哪里走，不是看员工，而是看公司的“上层建筑”。包含了功能上划分出来的职能管理，人员上划分出来的人力资源管理，以及最重要的老板。没错，老板绝对是最重要的，私营企业，老板的企业，不是么？
 
 P.S 所以，当达到到一定的level之后，跳槽里重要的一环就是要找老板聊聊。
 
-### <a name="ch5.1">5.1 职能管理的职责</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch5.1">5.1 职能管理的职责</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 一家公司，其实就和人体类似，各个部门各司其职，为公司提供各种各样的能力，使整个公司成为一体，完成产品制作盈利的目的。在这样的一个结构下，各部门（职能）的管理就显得异常重要，只有各个部门的管理人员都能将自身的部门管理好，公司才能平衡发展，真正跑起来。对一家公司来说，任何一个短板都是很致命的，就像一个破了一边的水桶一样，水永远只能储到破掉的那个高度。
 
 举个例子，想想一家软件公司，假如技术能力不及格，会是怎么样一个惨状。（P.S 而且这还很常见，我供职过的几家公司里，超过一半的都有这样那样的技术问题。）企划在优秀，运营、销售再天才，东西做不出来也是枉然。
 
-#### <a name="ch5.1.1">5.1.1 中层管理</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch5.1.1">5.1.1 中层管理</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 从某种层面上来说，职能的中层管理其实还比职能部门的上层管理更重要。
 
 举个简单的例子，就像军队打仗，中央司令部被炸掉了，部队没方向了，但是还不至于指挥不灵，手脚不健全，等后继的指挥官到了，该撤退的时候照样能顺利跑掉，不伤筋骨。但是如果军队里的中层指挥全部挂掉，你看看有上面的光杆司令还有用没用。别说大的战略指挥了，小的撤退命令都下不下去。神经都断光了，要大脑还有什么用，就一个瘫痪货。
@@ -236,20 +236,20 @@ P.S 所以，当达到到一定的level之后，跳槽里重要的一环就是�
 
 即便现在没有没问题，只要有一套合理的招聘和培训机制，让一名合格的技术负责人带一个项目一段时间，自然而然就能培养出一两名员工，然后再慢慢地推广开来。
 
-#### <a name="ch5.1.2">5.1.2 上层管理</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch5.1.2">5.1.2 上层管理</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 上面说中层管理的时候，也说到了，“让一名合格的技术负责人带”。这就是职能部门的上层管理，负责人。这里就不多展开了，各职能部门的负责人要有，而且必须要有很强的能力，否则公司必然会在某方面出现短板，就必然翘脚，走不远。
 
 一句话概括，无论公司如何pivot，如何改变战略、方向，只要是职能部门能力够强，能搞定。老板就能放心出手去做。
 
 其实我这里很想吐槽很多很多的私营小公司老板，没那个金刚钻，你揽什么瓷器活啊。。。靠谱的人一个都没有，纯粹瞎扯淡，一通乱搞，最后解散，浪费金钱浪费时间，何必呢。下面的中层和打手大可以慢慢培养，没几个核心的选手还是别搞了，散了回家洗洗睡吧。
 
-#### <a name="ch5.1.3">5.1.3 交流与沟通</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch5.1.3">5.1.3 交流与沟通</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 职能管理无论是上层还是中层，都有一个非常重要的职责，就是负责倾听员工的声音，并层层向上反馈。一家公司，那么多员工，必然会有各种声音各种意见，不可能铁板一块（你洗脑洗的好，也必定会有没有完全照顾到的员工）。
 
 秉持4.5我们讨论过的结论，你不能一概无视所有的声音，这样你的公司必然走不远。这个时候我们就需要一种管道，让整个公司的声音都让上面能听得到。职能管理就负责最先的一道关卡，倾听、安抚下属也是他们工作中非常重要的一环。
 
-### <a name="ch5.2">5.2 人事部门的职责</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-#### <a name="ch5.2.1">5.2.1 人事的职责</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch5.2">5.2 人事部门的职责</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+#### <a name="ch5.2.1">5.2.1 人事的职责</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 很多，不，其实我呆过的所有公司，人事都只是个打杂的。何谓打杂：做的事情很多，但是做好的事情很少。
 
 人事其实是一家公司当中非常重要的职位。我们平时常说，有正确答案的科目简单，诸如数学、物理之流，对就是对，错就是错。而没有正确答案的就难上许多。放到一家公司里，就可以理解为，和人打交道的工种，就非常难做。这里主要就是指人事所负责的那些工作。
@@ -260,9 +260,9 @@ P.S 所以，当达到到一定的level之后，跳槽里重要的一环就是�
 
 基于人事其广泛的职责覆盖，在人事这个部门上，公司其实更需要靠谱的人才。
 
-#### <a name="ch5.2.2">5.2.2 核心职责</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-##### <a name="ch5.2.2.1">5.2.2.1 招聘</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-招聘工作绝对是大众对于人事这个职业的第一个认识，而且就像我在这篇文章一开始说的那样，人才相关的工作都是TOP优先级的，也就是招聘对于公司来说是非常重要的。而与需求相反，我见呆过的所有公司的招聘，基本上都是通过非常呆板的方式进行的，最常见的就是只看招聘网站，而没有其他任何更聪明的手段。
+#### <a name="ch5.2.2">5.2.2 核心职责</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+##### <a name="ch5.2.2.1">5.2.2.1 招聘</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+招聘工作绝对是大众对于人事这个职业的第一个认识，而且就像我在这篇文章一开始说的那样，人才相关的工作都是[Top]优先级的，也就是招聘对于公司来说是非常重要的。而与需求相反，我见呆过的所有公司的招聘，基本上都是通过非常呆板的方式进行的，最常见的就是只看招聘网站，而没有其他任何更聪明的手段。
 
 招聘是一门具有非常多技巧的技术，这里就不铺开说了。老板只需要知道一点，你非常需要一个能帮你解决“人才招聘”难题的攻关手！
 
@@ -272,13 +272,13 @@ P.S 所以，当达到到一定的level之后，跳槽里重要的一环就是�
 * 有靠谱的行业领域人脉关系（游戏行业相关的人脉网络），能了解必要的信息（谁谁谁正在裁员，谁谁谁待遇不行），抓住其他公司的弱点进行攻坚
 * 为人处世圆滑老道
 
-##### <a name="ch5.2.2.2">5.2.2.2 人员管理</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+##### <a name="ch5.2.2.2">5.2.2.2 人员管理</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 看过第四章就知道，一家公司要留住员工不是一件容易的事情，要做许多工作。在很多具体实施的方面，比如说培训、沟通、评价，是由公司中层的职能管理人员来进行。而人事负责的任务更重要，要负责制定公司整个评价、培训、激励制度的大框架，从理论依据（心理学等）出发，建立一个行之有效的管理体系。
 
-##### <a name="ch5.2.2.3">5.2.2.3 文化建设</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+##### <a name="ch5.2.2.3">5.2.2.3 文化建设</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 公司文化对于培养员工的归属感和认同感是非常重要的。人事部门应该建立一整套完善的洗脑手段，保证新进入的员工能很快认同、适应公司的环境和行为准则（前提是公司的文化是靠谱的）。并最大程度上激发员工的积极性，而不是通过使用行政手段来强迫员工行动。（想想一下主动加班和强迫加班的差别）
 
-##### <a name="ch5.2.2.4">5.2.2.4 问题解决</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+##### <a name="ch5.2.2.4">5.2.2.4 问题解决</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 一家公司在运营过程中，总会有各种各样的问题发生。人事部门应该建立一个收集、提交、解决问题的系统，来解决公司运营中的各种问题并优化公司的运营状况。
 
 在这个工作中，最关键的是建立一个问题提交的通道，并保证提交上来的问题能够得到回应：
@@ -290,30 +290,30 @@ P.S 所以，当达到到一定的level之后，跳槽里重要的一环就是�
 	* 能根据提交的问题，真正进行有针对性的解决（表面有收有回的敷衍是找死）
 * 建立一个定期的1对1面谈计划，保证下层的员工和中层职能管理有定期的沟通，并保证其声音能最终达到上层管理，并得到解决
 
-### <a name="ch5.3">5.3 老板的职责</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch5.3">5.3 老板的职责</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 这里细节不多讲，很多地方都在前面有了详细的论述。主要是提几点思路。
 
-#### <a name="ch5.3.1">5.3.1 找到对的人</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch5.3.1">5.3.1 找到对的人</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 开篇就说了人才的重要性，这里再提一下。老板一定要能找到靠谱的人，放到最适合这个人的位置上，特别是核心的几个位置。找不到的还不如关门大吉，因为拖下去也是早晚的事情。
 
-#### <a name="ch5.3.2">5.3.2 做好激励工作</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch5.3.2">5.3.2 做好激励工作</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 这个在第四章，特别是4.5的时候就说过了，要想走得好，就两个字“双赢”。总要求员工怎么怎么付出，而不站在员工的角度思考下，员工怎么有积极性干活？就算是骗也要骗起来。激励工作做好了，积极性调动起来了，自然生产力就上去了。口碑也好了，人才也进来了，人员流动也控制住了，不是很好么。
 
-#### <a name="ch5.3.3">5.3.3 做好决定</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch5.3.3">5.3.3 做好决定</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 老板第二重要的任务（第一位是找对的人）。无论是决定公司的发展方向，还是决定产品的研发方向，还是决定pivot的方向，还是决定要最终关闭项目。一切都是决定。有数据依据、有理论依据支持的快速决定，是经营一家公司所必须的一个技能。
 
-#### <a name="ch5.3.4">5.3.4 放手</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch5.3.4">5.3.4 放手</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 Boss之所以是boss，并不是让你什么都抓在手上。一个人的时间精力是有限的，在有限的时间里怎么把事情做好，怎么抓最需要你去抓的事情？这就是学问。我个人觉得当老板最好的状态就是招一帮靠谱的人，让他们负责帮你把事情都做好，你就在那边数钱就好了。
 
 反过来也很容易看出一家公司的经营状况，一个老板什么事情都要插手，而且还没啥好结果的，那公司状况必然一塌糊涂。越是闲越说明你手下有靠谱的人才在帮你打理。就这个道理。
 
 这个实在是有太多可以参考的经验了，网上找找硅谷知名企业的CEO是怎么样的一个生活节奏，就能管中窥豹了。
 
-## <a name="ch6">6. 其他</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-### <a name="ch6.1">6.1 聊聊加班</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+## <a name="ch6">6. 其他</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### <a name="ch6.1">6.1 聊聊加班</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 软件行业的公司，哪个没加班的？反正我是没见过。当然，也不是每家公司都把加班提升到事业高度的。有的公司能正确认识加班，有的公司则不能。因为加班这个事情关系到公司内员工的留存，认同感，企业文化，工作效率，等一系列和公司切身相关的问题，也因为这个事情的普遍性，我觉得有必要在这里聊下这个问题。
 
-#### <a name="ch6.1.1">6.1.1 加班的分类</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch6.1.1">6.1.1 加班的分类</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 加班分为很多种，大致上我觉得能分为两种：有必要的加班和没必要的加班。举例来说：
 
 * 有必要的加班：公司产品研发正在一个非常关键的节点，有必要赶时间将产品功能抢在竞争对手之前上线，需要短期冲刺
@@ -321,7 +321,7 @@ Boss之所以是boss，并不是让你什么都抓在手上。一个人的时间
 
 正确区分这两者非常重要，这指导了接下来的对应法则。
 
-#### <a name="ch6.1.2">6.1.2 正确认识加班</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch6.1.2">6.1.2 正确认识加班</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 加班的代价很高昂。主要有以下几点：
 
 * 效率并没有变高，研究表明，加班的结果并没有使产出提高，长期来说反而是倒退
@@ -335,7 +335,7 @@ Boss之所以是boss，并不是让你什么都抓在手上。一个人的时间
 第3点致命在人才。通篇的核心就是人才，错误的企业文化和人员的流动会将人才赶到别的公司，而不是你的公司。    
 第4点致命在公司的核心价值上，当你选择用长时间的工作时间去取代思考的时候，事情将无法挽回。没人去思考问题在哪里，会导致公司失去解决问题的能力，最后就是完蛋大吉。当你最后无力支付长期高强度加班的代价的时候，公司就崩溃了。
 
-#### <a name="ch6.1.3">6.1.3 如何解决</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+#### <a name="ch6.1.3">6.1.3 如何解决</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 好了，认识了加班之后，我们要正确区分，并进行解决。开始的时候也说了，分类是有必要的加班和没必要的加班。
 
 我们主要要分析、并解决导致没必要的加班的原因：
@@ -347,8 +347,8 @@ Boss之所以是boss，并不是让你什么都抓在手上。一个人的时间
 
 这里举几个简单常见的例子，不要以为加班没什么大不了的。刚才也说过了，加班的代价是非常大的。需要正确认识加班，只有心态摆正了，才能找出问题，并解决这个不健康的状态。
 
-## <a name="ch7">7. 附录</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
-### <a name="ch7.1">7.1 关于作者</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+## <a name="ch7">7. 附录</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### <a name="ch7.1">7.1 关于作者</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 * Name：Jonathan Dai
 * Intro：华东师范大学思想政治教育专业毕业的奇葩软件从业者，从业6年有余，历任4家公司，领域：web、游戏服务器
 * 微博：[Jonathan_Dai](http://weibo.com/xenojoshua)
@@ -356,7 +356,7 @@ Boss之所以是boss，并不是让你什么都抓在手上。一个人的时间
 * 博客上的链接：[从技术人的视角谈软件公司经营](http://xenojoshua.com/2014/04/company-management/)
 
 
-### <a name="ch7.2">7.2 扩展阅读</a><a style="float:right;text-decoration:none;" href="#index">Top</a>
+### <a name="ch7.2">7.2 扩展阅读</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 * [Mr.Jamie的博客](http://mrjamie.cc/)：台湾人，孵化器“AppWorks 之初創投合夥人”，主攻创业指导，他的博客绝对值得一读
 * [加班与效率 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/10217.html)
 * [长时间工作意味着什么](http://blog.jobbole.com/52441/)
