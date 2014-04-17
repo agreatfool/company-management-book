@@ -366,5 +366,6 @@ Boss之所以是boss，并不是让你什么都抓在手上。一个人的时间
 * Intro：华东师范大学思想政治教育专业毕业的奇葩软件从业者，从业6年有余，历任4家公司，领域：web、游戏服务器
 * 新浪微博：[Jonathan_Dai](http://weibo.com/xenojoshua)
 * 博客：[xenojoshua.com](http://xenojoshua.com)
-* 本文在线的维护地址：[github repo](https://github.com/agreatfool/company-management-book)
+* 本文在github上的维护地址：[github repo](https://github.com/agreatfool/company-management-book)
 * 本文在博客上的链接：[从技术人的视角谈软件公司经营](http://xenojoshua.com/2014/04/company-management/)
+* 本文在博乐在线投稿链接：[从技术人的视角谈软件公司经营 - 博客 - 伯乐在线](http://blog.jobbole.com/65367/)
